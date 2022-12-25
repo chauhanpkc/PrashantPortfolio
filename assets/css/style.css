@@ -79,7 +79,6 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  height:35vh;
   border: 8px solid #2c2f3f;
 }
 
@@ -87,7 +86,7 @@ h6 {
   font-size: 24px;
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: 300;
   -moz-text-align-last: center;
   text-align-last: center;
   font-family: "Poppins", sans-serif;
